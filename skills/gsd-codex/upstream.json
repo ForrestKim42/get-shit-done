@@ -1,0 +1,13 @@
+{
+  "source_repo": "https://github.com/ForrestKim42/get-shit-done.git",
+  "source_ref": "main",
+  "source_commit": "b85247a3b894c87bda3afc6fefb7d95624e71d5a",
+  "generated_skill": "gsd-codex",
+  "counts": {
+    "commands": 28,
+    "agents": 11,
+    "workflows": 30,
+    "references": 13,
+    "templates": 34
+  }
+}

@@ -116,12 +116,26 @@ Use `--claude`, `--opencode`, `--gemini`, or `--all` to skip the runtime prompt.
 </details>
 
 <details>
+<summary><strong>Codex (Skill)</strong></summary>
+
+Install this repo as a Codex skill with one command:
+
+```bash
+python3 "${CODEX_HOME:-$HOME/.codex}/skills/.system/skill-installer/scripts/install-skill-from-github.py" --repo ForrestKim42/get-shit-done --path skills/gsd-codex --ref main
+```
+
+After installation, restart Codex to load the new skill.
+If your repo is a fork, replace `ForrestKim42/get-shit-done` with your own `owner/repo`.
+
+</details>
+
+<details>
 <summary><strong>Development Installation</strong></summary>
 
 Clone the repository and run the installer locally:
 
 ```bash
-git clone https://github.com/glittercowboy/get-shit-done.git
+git clone https://github.com/ForrestKim42/get-shit-done.git
 cd get-shit-done
 node bin/install.js --claude --local
 ```

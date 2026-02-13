@@ -42,6 +42,7 @@
   },
   "scripts": {
     "build:hooks": "node scripts/build-hooks.js",
+    "build:codex-skill": "node scripts/generate-codex-skill.js",
     "prepublishOnly": "npm run build:hooks",
     "test": "node --test get-shit-done/bin/gsd-tools.test.js"
   }

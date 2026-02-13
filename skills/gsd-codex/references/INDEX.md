@@ -1,0 +1,127 @@
+# GSD Codex Index
+
+## Commands (28)
+- `commands/add-phase.md`
+- `commands/add-todo.md`
+- `commands/audit-milestone.md`
+- `commands/check-todos.md`
+- `commands/complete-milestone.md`
+- `commands/debug.md`
+- `commands/discuss-phase.md`
+- `commands/execute-phase.md`
+- `commands/help.md`
+- `commands/insert-phase.md`
+- `commands/join-discord.md`
+- `commands/list-phase-assumptions.md`
+- `commands/map-codebase.md`
+- `commands/new-milestone.md`
+- `commands/new-project.md`
+- `commands/pause-work.md`
+- `commands/plan-milestone-gaps.md`
+- `commands/plan-phase.md`
+- `commands/progress.md`
+- `commands/quick.md`
+- `commands/reapply-patches.md`
+- `commands/remove-phase.md`
+- `commands/research-phase.md`
+- `commands/resume-work.md`
+- `commands/set-profile.md`
+- `commands/settings.md`
+- `commands/update.md`
+- `commands/verify-work.md`
+
+## Workflows (30)
+- `workflows/add-phase.md`
+- `workflows/add-todo.md`
+- `workflows/audit-milestone.md`
+- `workflows/check-todos.md`
+- `workflows/complete-milestone.md`
+- `workflows/diagnose-issues.md`
+- `workflows/discovery-phase.md`
+- `workflows/discuss-phase.md`
+- `workflows/execute-phase.md`
+- `workflows/execute-plan.md`
+- `workflows/help.md`
+- `workflows/insert-phase.md`
+- `workflows/list-phase-assumptions.md`
+- `workflows/map-codebase.md`
+- `workflows/new-milestone.md`
+- `workflows/new-project.md`
+- `workflows/pause-work.md`
+- `workflows/plan-milestone-gaps.md`
+- `workflows/plan-phase.md`
+- `workflows/progress.md`
+- `workflows/quick.md`
+- `workflows/remove-phase.md`
+- `workflows/research-phase.md`
+- `workflows/resume-project.md`
+- `workflows/set-profile.md`
+- `workflows/settings.md`
+- `workflows/transition.md`
+- `workflows/update.md`
+- `workflows/verify-phase.md`
+- `workflows/verify-work.md`
+
+## Agents (11)
+- `agents/gsd-codebase-mapper.md`
+- `agents/gsd-debugger.md`
+- `agents/gsd-executor.md`
+- `agents/gsd-integration-checker.md`
+- `agents/gsd-phase-researcher.md`
+- `agents/gsd-plan-checker.md`
+- `agents/gsd-planner.md`
+- `agents/gsd-project-researcher.md`
+- `agents/gsd-research-synthesizer.md`
+- `agents/gsd-roadmapper.md`
+- `agents/gsd-verifier.md`
+
+## References (13)
+- `references/checkpoints.md`
+- `references/continuation-format.md`
+- `references/decimal-phase-calculation.md`
+- `references/git-integration.md`
+- `references/git-planning-commit.md`
+- `references/model-profile-resolution.md`
+- `references/model-profiles.md`
+- `references/phase-argument-parsing.md`
+- `references/planning-config.md`
+- `references/questioning.md`
+- `references/tdd.md`
+- `references/ui-brand.md`
+- `references/verification-patterns.md`
+
+## Templates (33)
+- `templates/codebase/architecture.md`
+- `templates/codebase/concerns.md`
+- `templates/codebase/conventions.md`
+- `templates/codebase/integrations.md`
+- `templates/codebase/stack.md`
+- `templates/codebase/structure.md`
+- `templates/codebase/testing.md`
+- `templates/context.md`
+- `templates/continue-here.md`
+- `templates/debug-subagent-prompt.md`
+- `templates/DEBUG.md`
+- `templates/discovery.md`
+- `templates/milestone-archive.md`
+- `templates/milestone.md`
+- `templates/phase-prompt.md`
+- `templates/planner-subagent-prompt.md`
+- `templates/project.md`
+- `templates/requirements.md`
+- `templates/research-project/ARCHITECTURE.md`
+- `templates/research-project/FEATURES.md`
+- `templates/research-project/PITFALLS.md`
+- `templates/research-project/STACK.md`
+- `templates/research-project/SUMMARY.md`
+- `templates/research.md`
+- `templates/roadmap.md`
+- `templates/state.md`
+- `templates/summary-complex.md`
+- `templates/summary-minimal.md`
+- `templates/summary-standard.md`
+- `templates/summary.md`
+- `templates/UAT.md`
+- `templates/user-setup.md`
+- `templates/verification-report.md`
+

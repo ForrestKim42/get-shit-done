@@ -1,0 +1,4 @@
+interface:
+  display_name: "GSD Codex"
+  short_description: "Get Shit Done workflow for Codex"
+  default_prompt: "Apply the official GSD workflow in this repository and execute the next concrete command safely."
